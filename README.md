@@ -27,7 +27,8 @@ pip install -r requirements.txt
 
 Um direkt in einem interaktiven Umfeld zu experimentieren, kann das Repository in Binder gestartet werden:
 
-Beispiel- und Übungsskript
+# Beispiel- und Übungsskript  
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/HandsOn_Simulations/main?labpath=example_exercise_SIR.ipynb)
 
 
