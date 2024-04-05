@@ -1,14 +1,15 @@
 # Simulationen in Python
 
-Dieses Repository dient als Einführung und praktische Anleitung in die Welt der Simulationen mit Python. Anhand von Jupyter Notebooks werden verschiedene Simulationstypen veranschaulicht, beginnend mit der Modellierung von Infektionskrankheiten über das SIR-Modell, andere Beispiele werden ergänzt.
+Dieses Repository dient als Einführung und praktische Anleitung in die Welt der Simulationen mit Python. Anhand von Jupyter Notebooks werden verschiedene Simulationstypen veranschaulicht, u.A. Modellierung von Infektionskrankheiten über das SIR-Modell.
 
 Simulationen bieten ein mächtiges Werkzeug, um komplexe Systeme und Dynamiken zu verstehen, die in der realen Welt auftreten. Sie ermöglichen es uns, Vorhersagen zu treffen, Szenarien zu testen und tiefere Einblicke in die Mechanismen hinter beobachteten Phänomenen zu gewinnen.
 
 ## Inhalt
 
 - `example_exercise_SIR.ipynb`: Ein einführendes Notebook, das die Grundlagen des SIR-Modells für die Simulation von Infektionskrankheiten demonstriert. Enthält Übungsaufgaben.
+- `example_other_simulations.ipynb`: Beispiele für statische, diskrete und Monte-Carlo-Simulation
 
-Weitere Notebooks zu verschiedenen Simulationsthemen werden hinzugefügt.
+
 
 ## Starten
 
